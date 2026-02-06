@@ -1,0 +1,6 @@
+{
+  "appId": "com.monstro.v18",
+  "appName": "MONSTRO V18",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
